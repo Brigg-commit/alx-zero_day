@@ -1,1 +1,1 @@
-My second readme file
+Git 0x03-git project.
